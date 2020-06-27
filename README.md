@@ -1,6 +1,7 @@
 # Animal_planet
 
-A new Flutter project.
+This is the UI clone of animal planet UI desgin. 
+
 
 ## Getting Started
 
