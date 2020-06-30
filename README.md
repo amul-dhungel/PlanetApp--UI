@@ -2,6 +2,9 @@
 
 This is the UI clone of animal planet UI desgin. 
 
+<img src="Screenshots/details.JPG">
+<img src="Screenshots/home.JPG">
+
 
 ## Getting Started
 
